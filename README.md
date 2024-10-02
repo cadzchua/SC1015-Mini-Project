@@ -12,6 +12,7 @@ This mini-project focuses on analysing the survival rates of passengers aboard t
 - To explore the dataset and conduct exploratory data analysis (EDA) to identify key factors affecting survival.
 - To visualise the data through various plots, providing insights into the relationships between different variables.
 - To formulate and answer specific research questions related to passenger survival.
+- To develop predictive models for estimating survival outcomes.
 
 ## Dataset
 The project utilises the Titanic dataset, which includes various features of the passengers such as:
