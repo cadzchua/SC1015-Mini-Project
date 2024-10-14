@@ -12,6 +12,10 @@ This mini-project focuses on analysing the survival rates of passengers aboard t
 
 ## Motivation
 
+- **Historical Significance**: The Titanic disaster is one of the most infamous maritime tragedies in history. Analysing this event provides insights into historical societal norms, such as class disparity and gender roles, and how they influenced survival rates.
+
+- **Real-World Relevance**: The Titanic disaster serves as a case study for understanding human behavior in crises. Investigating survival rates can provide insights applicable to modern emergency management, helping to inform policies and procedures for future disasters.
+
 ## Objectives
 
 - To explore the dataset and conduct exploratory data analysis (EDA) to identify key factors affecting survival.
