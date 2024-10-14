@@ -80,8 +80,8 @@ Each model was evaluated using cross-validation, accuracy scores, confusion matr
 Each team member contributed to data cleaning, EDA, and model development. Specific roles included:
 
 - **Cadden Chua**: Data cleaning, EDA visualisations, feature extraction, modelling and slides.
-- **Chooi Li Hang**: Data cleaning, EDA visualisations, feature importance, modelling and slides
-- **Tristan Ng**: Data cleaning, EDA visualisations and slides.
+- **Chooi Li Hang**: Data cleaning, EDA visualisations and slides.
+- **Tristan Ng**: Data cleaning, EDA visualisations, feature importance, modelling and slides.
 
 ## Installation
 
