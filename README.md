@@ -1,12 +1,14 @@
 # SC1015 Mini-Project: Titanic Survival Analysis
 
-## Overview
-This mini-project focuses on analysing the survival rates of passengers aboard the Titanic using data from Kaggle. The project aims to uncover insights regarding factors that influenced survival during the tragic sinking of the ship.
-
 ## Team Members
 - **Cadden Chua**
 - **Chooi Li Hang**
 - **Tristan Ng**
+
+## Overview
+This mini-project focuses on analysing the survival rates of passengers aboard the Titanic using data from Kaggle. The project aims to uncover insights regarding factors that influenced survival during the tragic sinking of the ship.
+
+## Motivation
 
 ## Objectives
 - To explore the dataset and conduct exploratory data analysis (EDA) to identify key factors affecting survival.
@@ -30,10 +32,22 @@ The project utilises the Titanic dataset, which includes various features of the
 4. What is the relationship between family size (`SibSp`, `Parch`) and survival?
 5. Does the embarkation point (`Embarked`) affect survival chances?
 
-## Visualisations
+## Data Preparation and Cleaning
+
+## Exploratory Data Analysis (EDA)
 The project includes several visualisations, including:
 - Bar plots to illustrate survival rates by passenger class, age, gender, family size, and embarkation point.
 - Box plots to show the distribution of age and fare among survivors and non-survivors.
+
+
+
+## Machine Learning Techniques
+
+
+## Results and Insights
+
+
+## Individual Contributions
 
 ## Installation
 To run the project, ensure you have the following libraries installed:
@@ -60,6 +74,8 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 5. Push to the branch: `git push master my-feature-branch`
 6. Open a pull request.
 
+## References
+- [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
 
 ## License
 
